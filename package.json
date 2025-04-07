@@ -1,0 +1,23 @@
+{
+  "name": "qa-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menbereluel/QA-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menbereluel/QA-a/issues"
+  },
+  "homepage": "https://github.com/menbereluel/QA-a#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
